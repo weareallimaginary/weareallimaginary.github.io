@@ -19,7 +19,6 @@ main{
     height: 100%;
     background-color: black;
     color: white;
-    text-align: center;
     border-width: 4px;
     border-style: solid;
     border-image: linear-gradient(to bottom, rgb(75, 4, 48), rgb(88, 29, 66, 0)) 1 100%;
@@ -44,6 +43,7 @@ hr{
   margin-top: -4px;
   margin-bottom: -7px;
   background-image: url('res/images/gradient.png');
+  text-align: center;
 }
 .smallp{
   font-size: 20px;
@@ -54,7 +54,14 @@ hr{
   vertical-align: middle;
   margin-top: -8px;
 }
-
+.bigpleft{
+  text-align: left;
+}
+.content{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 p{
   font-size: 30px;
   background: -webkit-linear-gradient(#ffffff, #2e2e2e);
