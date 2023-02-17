@@ -1,4 +1,5 @@
-@font-face { font-family: DFPOCOC; src: url('https://weareallimaginary.github.io/res/DFPOCOC.TTF'); }
+@font-face { font-family: Signalist; src: url('https://weareallimaginary.github.io/res/DFPOCOC.TTF'); }
+
 html{
     background-color: rgb(27, 13, 20);
     margin: -10px;
@@ -11,31 +12,18 @@ html{
     font-family: 'DFPOCOC';
 }
 main{
-    width: 40%;
-    margin-left: 30%;
+    width: auto;
+    margin-left: 15%;
     height: 1055px;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: large;
     border-width: 4px;
     border-style: solid;
-    border-image: 
-    linear-gradient(to bottom, rgb(75, 4, 48), rgb(88, 29, 66, 0)) 1 100%;
+    border-image: linear-gradient(to bottom, rgb(75, 4, 48), rgb(88, 29, 66, 0)) 1 100%;
     box-shadow: 0px 0px 30px rgb(0, 0, 0);
 }
-
-button {
-    background-color: linear-gradient(to bottom, rgb(75, 4, 48), rgb(49, 38, 57)) 1 100%;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-  }
-hr {
+hr{
   background-image: linear-gradient(90deg, rgb(75, 4, 48), rgb(49, 38, 57, 0));
   border: 0;
   height: 4px;
