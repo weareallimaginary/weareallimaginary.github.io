@@ -71,6 +71,12 @@ button:hover{
   vertical-align: middle;
   margin-top: -8px;
 }
+.textdiv{
+  background: -webkit-linear-gradient(#ffffff, #9c9c9c);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .bigpleft{
   text-align: left;
 }
