@@ -88,7 +88,7 @@ button:hover{
 }
 .previewimg img{
   box-shadow: 0px 0px 5px rgb(75, 4, 48);
-  border-radius: 20px;
+  border-radius: 0px;
 }
 
  a:link {
