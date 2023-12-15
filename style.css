@@ -1,6 +1,6 @@
-@font-face { font-family: DFPOCOC; src: url('res/DFPOCOC.TTF'); }
+/*@font-face { font-family: DFPOCOC; src: url('res/DFPOCOC.TTF'); }*/
 html{
-    font-family: DFPOCOC;
+    /*font-family: DFPOCOC;*/
     background-color: white;
     color: black;
 }
@@ -13,6 +13,6 @@ body{
 p{
   font-size: 30px;
 }
-button{
+/*button{
   font-family: DFPOCOC;
-} 
+} */
